@@ -36,8 +36,7 @@ Simulation differences:
 - Only has playable 1 game(dino game)
 - No music and settings
 
-The TinkerCad can be downloaded at:
-https://github.com/Riyan123410/Game-Box/blob/main/game%20box.brd
+The TinkerCad can be downloaded [here](https://github.com/Riyan123410/Game-Box/blob/main/game%20box.brd)
 
 ## Demonstration:
 ill finish this part later ._.
