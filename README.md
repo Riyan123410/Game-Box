@@ -2,7 +2,7 @@
 A circuit made with an arduino and an LCD (I2C) that can play three different games
 
 ## Features: 
-- 3 playerble games:
+- 3 playable games:
   - Dino Game
   - Wack a Mole
   - Simon Says
@@ -15,14 +15,14 @@ A circuit made with an arduino and an LCD (I2C) that can play three different ga
 ## Code Installation:
 1. Download main/gameBox folder
 2. Open the sketch through Arduino IDE
-3. Download the following librarys:
+3. Install the following librarys:
    - Wire.h
    - LiquidCrystal_I2C.h
    - pitches.h
 4. Change the pin numbers in constants.ino depending on your circuit
 
 ## Materials:
-- Arduino Uno R3 or Arduino Mega
+- Arduino Uno R3
 - Piezo Buzzer
 - 5 Push Buttons
 - 9 Resisters
