@@ -40,7 +40,8 @@ Simulation differences:
 - Only has playable 1 game(dino game)
 - No music and settings
 
-The TinkerCad can be downloaded [here](https://github.com/Riyan123410/Game-Box/blob/main/game%20box.brd)
+The BRS file can be downloaded [here](https://github.com/Riyan123410/Game-Box/blob/main/game%20box.brd)
+Or use the simulation online [here](https://www.tinkercad.com/things/kHQZ5K2lTOZ-simulated-game-box?sharecode=y5nIe05luYwXFF-voKwsmAcUryRnGv_LbI6rn2tPDvk)
 
 ## Dino Game:
 
