@@ -1,6 +1,5 @@
 # Game-Box
-A circuit made with an arduino and an LCD (I2C) that can play three different games
-Video showcasing all the features: https://www.youtube.com/watch?v=oeP2pHyIK9Y 
+A circuit made with an arduino and an LCD (I2C) that can play three different games. Video showcasing all the features: https://www.youtube.com/watch?v=oeP2pHyIK9Y 
 
 ## Features: 
 - 3 playable games:
